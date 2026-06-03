@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "thelibrari": {
+      "type": "http",
+      "url": "https://www.thelibrari.com/api/mcp"
+    }
+  }
+}
